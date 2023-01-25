@@ -4,3 +4,6 @@ updating the file after commiting the file to local repo--
 new changes 
 new changes before staging
 second new change before staging
+third new change want to see in the repo
+aklfja;
+afkldna
