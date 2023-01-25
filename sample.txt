@@ -1,0 +1,6 @@
+git --version
+git init
+updating the file after commiting the file to local repo--
+new changes 
+new changes before staging
+second new change before staging
