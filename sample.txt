@@ -13,6 +13,9 @@ git diff head: between local repository and remote repository.
 git commit -m "this is first commit" : to commit the file to local repository, m is for to write message.
 git remote add origin url of remote repository
 git push origin main: "origin" is by default name of remote repository and 'main" is the name of branch here.
+git remote: will show you the name of remote repository.
+git remote -v: will show in more detail with name and url of the remote repo.
+mv sample.txt gitcommand.txt: to rename the file after this command add both old and new file to stagning area.
 
 updating the file after commiting the file to local repo--
 new changes 
