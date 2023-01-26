@@ -1,5 +1,19 @@
-git --version
-git init
+git --version: used to see the version of the git you are using.
+git init: used to create a new git repository.
+git config --global user.name "prince1kr": when you commit any file it will show your name.
+git config --global user.email "prince.kumar1@nexturn.com": when you commit any file it will show your email on GitHub.
+git config user.name: to know your user name.
+git config user.email: to know your email.
+touch sample.txt: to create a file named 'sample';
+notepad sample.txt: to write tthe content in the file.
+git add sample.txt: it will send the file into staging aea from working directory.
+git diff: the difference between conent of file in working directory and staging area.
+git diff --staged: between staging area and localrepository.
+git diff head: between local repository and remote repository.
+git commit -m "this is first commit" : to commit the file to local repository, m is for to write message.
+git remote add origin url of remote repository
+git push origin main: "origin" is by default name of remote repository and 'main" is the name of branch here.
+
 updating the file after commiting the file to local repo--
 new changes 
 new changes before staging
