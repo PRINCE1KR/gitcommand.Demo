@@ -1,4 +1,4 @@
-package com.demo;
+package src.com.demo.demo1;
 
 public class Airthmatic {
     public int add(int a,int b){
